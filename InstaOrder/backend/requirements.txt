@@ -1,0 +1,3 @@
+djangorestframework
+djangorestframework-simplejwt  # Para JWT
+python-dotenv  # Manejo de variables de entorno (opcional pero recomendado)
